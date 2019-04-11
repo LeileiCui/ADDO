@@ -45,7 +45,7 @@ R CMD BATCH demo/TEST_Heterotic_Model.r
 ```
 
 ## Pipeline
-![image]https://github.com/LeileiCui/readme_add_pic/blob/master/ADDO-Pipeline.png
+![image](https://github.com/LeileiCui/readme_add_pic/blob/master/ADDO-Pipeline.png)
 
 ## Contact
 leileicui_xuan@hotmail.com

@@ -28,11 +28,11 @@ The following R packages:
 
 ## Running the examples
 The following example dataset are available in the `data` directory:
-TEST.bed : The genotypes information
-TEST.bim : The loci information
-TEST.fam : The individuals information
-TEST.phe : The phenotypes data
-TEST.covs : The covariates data
+* TEST.bed : The genotypes information
+* TEST.bim : The loci information
+* TEST.fam : The individuals information
+* TEST.phe : The phenotypes data
+* TEST.covs : The covariates data
 
 Dominant effect detection:
 ```

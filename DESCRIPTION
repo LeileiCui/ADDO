@@ -1,0 +1,14 @@
+Package: ADDO
+Version: 0.1.0
+Date: 2019-04-10
+Title: a comprehensive toolkit to detect, classify and visualise additive and non-additive Quantitative Trait Loci
+Description: A highly-efficient tool designed to detect, classify and visualize quantitative trait loci (QTLs) with additive and non-additive effects. ADDO implements a mixed-model transformation to control for population structure and unequal relatedness that accounts for both additive and dominant genetic covariance among individuals, and decomposes single nucleotide polymorphism (SNP) effects into additive, partial dominance, dominance and overdominance categories. A matrix multiplication approach is used to accelerate the computation.
+Author: Leilei Cui and Bin Yang
+Maintainer: Leilei Cui <leileicui_xuan@hotmail.com>
+Depends: R (>= 3.0.1), data.table, parallel, bigmemory, mvtnorm, MASS, GenABEL, emma
+License: GPL-3
+URL: https://github.com/LeileiCui/ADDO
+LazyData: true
+RoxygenNote: 6.1.1
+NeedsCompilation: no
+Packaged: 2019-04-11 14:31:31 UTC; cuileilei

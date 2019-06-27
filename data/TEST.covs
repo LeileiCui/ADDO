@@ -1,0 +1,3 @@
+measure covariates
+Trait1 age,sex,bodyweight
+Trait2 age,sex,bodyweight
